@@ -29,3 +29,5 @@ When one clicks on the movie name the list appears from where the movie can be s
 
 
 When you click on the recommend button the results are displayed as shown--
+<img width="696" alt="image" src="https://github.com/amiteshks264/movie-recommendation-system/assets/105868193/395ab630-5962-4506-a28e-ea04847e2956">
+
